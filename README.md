@@ -16,12 +16,6 @@ Kelas : TI.22.A.1
 
 1. Siapkan aplikasi sublime text, lalu membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML
 2. Kemudian di dalam tag <title> ketik text untuk menampilkan judul browser, dan diakhiri dengan </title>
-
-        <!DOCTYPE html>
-        <html>
-        <head>
-	          <title>Tag HTML Dasar</title>
-        </head>
   
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/c92e3f93-c701-4661-84a9-8d2efbc7f1a1)
 
@@ -29,5 +23,7 @@ Kelas : TI.22.A.1
 
 3. Untuk membuat paragraf yaitu menggunakan tag <p></p> seperti berikut.
 
-         <p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman Web</b> di Prodi <i>Teknik Informatika</i> <u> Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag - tag dasar HTML.</p>
-          <p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
+   ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/dd8837f2-5384-40c1-b61e-ac954d991b6f)
+
+   ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/5e71d5a2-e90e-4b13-9c35-5418f132f7e0)
+
