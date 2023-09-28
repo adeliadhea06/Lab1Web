@@ -26,3 +26,8 @@ Kelas : TI.22.A.1
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/c92e3f93-c701-4661-84a9-8d2efbc7f1a1)
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/5d28ac76-3844-4ce2-9851-9348387a0d09)
+
+3. Untuk membuat paragraf yaitu menggunakan tag <p></p> seperti berikut.
+
+         <p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman Web</b> di Prodi <i>Teknik Informatika</i> <u> Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag - tag dasar HTML.</p>
+          <p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
