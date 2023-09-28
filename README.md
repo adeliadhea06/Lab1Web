@@ -27,3 +27,9 @@ Kelas : TI.22.A.1
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/5e71d5a2-e90e-4b13-9c35-5418f132f7e0)
 
+4. Lalu ketika memberikan judul menggunakan heading 1,2,3,4,5,6
+
+   ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/4a74bbc4-33f1-4b3f-b7aa-54b6d9895837)
+
+   ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/7979d02d-1533-43e8-b316-8ea28f6e8921)
+
