@@ -16,6 +16,7 @@ Kelas : TI.22.A.1
 
 1. Siapkan aplikasi sublime text, lalu membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML
 2. Kemudian di dalam tag <title> ketik text untuk menampilkan judul browser, dan diakhiri dengan </title>
+
         <!DOCTYPE html>
         <html>
         <head>
