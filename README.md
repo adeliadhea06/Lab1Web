@@ -33,13 +33,13 @@ Kelas : TI.22.A.1
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/7979d02d-1533-43e8-b316-8ea28f6e8921)
 
-5. Cara untuk memformat text menggunakan tag <b>untuk bold, <i>untuk italic, <mark>untuk marked text, dan sebagainya.
+5. Cara untuk memformat text menggunakan tag <b> untuk bold, <i> untuk italic, <mark> untuk marked text, dan sebagainya.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/40a1b1c6-6cea-44d2-9396-6fcb1cf2a236)
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/72d57124-9d55-46b4-a74f-1e7f1029dac8)
 
-6. Kemudian untuk menambahkan foto menggunakan <img src="">, src merupakan lokasi gambar yang akan ditampilkan. Sebelumnya gambar disimpan terlebih dahulu di file yang sama.
+6. Kemudian untuk menambahkan foto menggunakan <img src=""> , src merupakan lokasi gambar yang akan ditampilkan. Sebelumnya gambar disimpan terlebih dahulu di file yang sama.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/05133602-03c1-4745-8165-496799326f9b)
 
