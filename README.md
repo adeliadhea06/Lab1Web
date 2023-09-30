@@ -21,19 +21,19 @@ Kelas : TI.22.A.1
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/5d28ac76-3844-4ce2-9851-9348387a0d09)
 
-3. Untuk membuat paragraf yaitu menggunakan tag <p></p> seperti berikut.
+3. Untuk membuat paragraf yaitu menggunakan tag seperti berikut.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/dd8837f2-5384-40c1-b61e-ac954d991b6f)
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/5e71d5a2-e90e-4b13-9c35-5418f132f7e0)
 
-4. Lalu ketika memberikan judul menggunakan heading/<h1></h1>.
+4. Lalu ketika memberikan judul menggunakan heading.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/4a74bbc4-33f1-4b3f-b7aa-54b6d9895837)
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/7979d02d-1533-43e8-b316-8ea28f6e8921)
 
-5. Cara untuk memformat text menggunakan tag <b> untuk bold, <i> untuk italic, <mark> untuk marked text, dan sebagainya.
+5. Cara untuk memformat text menggunakan tag bold, italic, untuk marked text, dan sebagainya.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/40a1b1c6-6cea-44d2-9396-6fcb1cf2a236)
 
