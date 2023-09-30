@@ -39,7 +39,7 @@ Kelas : TI.22.A.1
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/72d57124-9d55-46b4-a74f-1e7f1029dac8)
 
-6. Kemudian untuk menambahkan foto menggunakan <img src=""> , src merupakan lokasi gambar yang akan ditampilkan. Sebelumnya gambar disimpan terlebih dahulu di file yang sama.
+6. Kemudian untuk menambahkan foto menggunakan <img src="" , src merupakan lokasi gambar yang akan ditampilkan. Sebelumnya gambar disimpan terlebih dahulu di file yang sama.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/05133602-03c1-4745-8165-496799326f9b)
 
@@ -50,11 +50,29 @@ Kelas : TI.22.A.1
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/bc05b0cf-9562-4219-b14e-f71cc8db8760)
 
 7. Setelah itu menambahkan hyperlink
-   Untuk membuat hyperlink yaitu buat 1 file lalu cantumkan nama file tersebut menggunakan kode dibawah. Ketika di klik, akan tertuju kepada link tersebut.
+   Untuk membuat hyperlink yaitu buat file lalu cantumkan nama file tersebut menggunakan kode dibawah. Ketika di klik, akan tertuju kepada link tersebut.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/818ec453-b5ca-46e3-ad91-966bbb94a790)
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/c29d2973-9dc5-4551-aa6d-a9beaa7aa2f5)
 
+8. Yang terakhir adalah kode dan tampilan setelah saya ubah.
 
+   ![Screenshot (270)](https://github.com/adeliadhea06/Lab1Web/assets/115794875/705561ab-c99d-4082-950e-f013440588fb)
 
+   ![Screenshot (269)](https://github.com/adeliadhea06/Lab1Web/assets/115794875/677ce1c5-2e56-46e8-9ac7-fbe3f4349302)
+
+   __Body bgcolor__ yaitu untuk menambahkan warna di background web, sedangkan __padding__ untuk menata letak pada halaman web agar terlihat rapi.
+
+###Jawab Pertanyaan Berikut
+   1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+      Jawab:
+      Ya, Karena terjadi salah penempatan tag
+      
+   3. Apa perbedaan dari tag <p dengan tag <br, berikan penjelasannya!
+      Jawab:
+      Tag <p benar-benar digunakan untuk mengganti paragraf untuk memudahkan memahami isi dari halaman. Sedangkan tag <br/ hanya digunakan untuk mengganti baris.
+      
+   5. Apa perbedaan atribut title dan alt pada tag <img, berikan penjelasannya!
+   6. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+   7. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
