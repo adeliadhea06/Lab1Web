@@ -64,15 +64,47 @@ Kelas : TI.22.A.1
 
    __Body bgcolor__ yaitu untuk menambahkan warna di background web, sedangkan __padding__ untuk menata letak pada halaman web agar terlihat rapi.
 
-###Jawab Pertanyaan Berikut
+### Jawab Pertanyaan Berikut
    1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
       Jawab:
+      
       Ya, Karena terjadi salah penempatan tag
       
    3. Apa perbedaan dari tag <p dengan tag <br, berikan penjelasannya!
       Jawab:
+      
       Tag <p benar-benar digunakan untuk mengganti paragraf untuk memudahkan memahami isi dari halaman. Sedangkan tag <br/ hanya digunakan untuk mengganti baris.
       
    5. Apa perbedaan atribut title dan alt pada tag <img, berikan penjelasannya!
-   6. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-   7. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+      Jawab:
+
+      - Alt adalah atribut yang ditambahkan ke tag gambar dalam HTML.
+
+      - Sedangkan Title adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML.
+        
+   7. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+
+      Jawab:
+
+      Untuk mengatur ukuran gambar dalam HTML, dapat menggunakan atribut width (lebar) dan height (tinggi). Agar tampilan gambar tetap proporsional, sebaiknya mengisi hanya salah satu dari kedua atribut tersebut, biasanya width atau height, sementara yang lainnya akan dihitung secara otomatis oleh browser.
+      
+   9. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+      Jawab:
+
+      - _blank :
+
+        Ketika target="_blank" digunakan, tautan akan membuka halaman yang ditautkan dalam tab atau jendela browser baru, terpisah dari halaman asal. Ini berguna ketika Anda ingin menjaga pengguna tetap di halaman asal dan membuka tautan eksternal atau tautan yang tidak ingin menggantikan halaman asal.
+
+        - _self :
+          
+          Ini adalah nilai default untuk atribut target. Ketika target="_self" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab yang sama di mana halaman asal berada. Ini berarti halaman asal akan digantikan dengan halaman yang baru.
+
+          - _top :
+
+            Ketika target="_top" digunakan, tautan akan membuka halaman yang ditautkan di jendela atau tab paling atas atau paling tinggi dalam tumpukan jendela browser. Jadi, jika halaman asal ada dalam bingkai (frame), tautan akan membuka halaman baru di luar bingkai tersebut.
+
+            - _parent :
+
+              target="_parent" digunakan ketika halaman web memiliki bingkai (frame) yang saling terkait. Ini akan membuka tautan di jendela atau tab yang menggantikan bingkai "induk" yang berisi tautan tersebut.
