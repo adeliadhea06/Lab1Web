@@ -108,3 +108,5 @@ Kelas : TI.22.A.1
        - _parent :
 
          target="_parent" digunakan ketika halaman web memiliki bingkai (frame) yang saling terkait. Ini akan membuka tautan di jendela atau tab yang menggantikan bingkai "induk" yang berisi tautan tersebut.
+
+## Sekian, Terima Kasih.
