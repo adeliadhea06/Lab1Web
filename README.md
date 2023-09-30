@@ -50,7 +50,7 @@ Kelas : TI.22.A.1
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/bc05b0cf-9562-4219-b14e-f71cc8db8760)
 
 7. Setelah itu menambahkan hyperlink
-   Untuk membuat hyperlink yaitu buat 1 file lalu cantumkan nama file tersebut di kode <a href="">. Ketika di klik, akan tertuju kepada link tersebut.
+   Untuk membuat hyperlink yaitu buat 1 file lalu cantumkan nama file tersebut di kode <a href="link tersebut">. Ketika di klik, akan tertuju kepada link tersebut.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/818ec453-b5ca-46e3-ad91-966bbb94a790)
 
