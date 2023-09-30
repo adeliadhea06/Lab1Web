@@ -27,7 +27,7 @@ Kelas : TI.22.A.1
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/5e71d5a2-e90e-4b13-9c35-5418f132f7e0)
 
-4. Lalu ketika memberikan judul menggunakan heading (<h1></h1> , <h2></h2> , <h3></h3> , <h4></h4> , <h5></h5> , <h6></h6>).
+4. Lalu ketika memberikan judul menggunakan heading/<h1></h1>.
 
    ![image](https://github.com/adeliadhea06/Lab1Web/assets/115794875/4a74bbc4-33f1-4b3f-b7aa-54b6d9895837)
 
